@@ -1,35 +1,42 @@
 # HTML Learning Journey
 
-## Topics Covered
+## Learning Progress
 
-### Basic HTML Structure
+- ✅ **HTML Basics**: Document structure, elements, and attributes
+- ✅ **Semantic HTML**: Proper element usage and accessibility
+- ✅ **Content Organization**: Headings, paragraphs, lists, and images
+- ✅ **Navigation**: Links and external resources
+- ✅ **Advanced Elements**: Figures, captions, and meta tags
 
-- HTML documents structure
-- Head and body elements
-- DOCTYPE declaration
+## Completed Projects
 
-### HTML Elements
+### ✅ 01. Build a Recipe Page
 
-- Headings (h1-h6)
-- Paragraphs and text formatting
-- Lists (ordered and unordered)
-- Links and anchors
-- Images
+- **Project**: [01-build-recipe-page](01-build-recipe-page/)
+- **Topic**: Unadon (Japanese Eel Rice Bowl) recipe
+- **Skills**: Basic HTML structure, lists, images, content organization
+- **Status**: **COMPLETED** ✅
 
-### Forms
+### ✅ 02. Build a Travel Agency Page
 
-- Input elements
-- Form validation
-- Semantic form elements
+- **Project**: [02-build-travel-agency-page](02-build-travel-agency-page/)
+- **Topic**: Discover Bromo travel tours website
+- **Skills**: Advanced HTML, figures, SEO meta tags, external links, image galleries
+- **Status**: **COMPLETED** ✅
 
-### HTML5 Features
+## Skills Developed
 
-- Semantic elements (header, nav, main, footer)
-- Audio and video elements
-- Canvas element
+- ✅ HTML5 document structure (DOCTYPE, html, head, body)
+- ✅ Content elements (headings, paragraphs, lists)
+- ✅ Media integration (images with alt text)
+- ✅ Semantic markup (figure, figcaption, strong)
+- ✅ Navigation and linking (internal and external links)
+- ✅ SEO fundamentals (meta descriptions, proper titles)
+- ✅ Accessibility best practices
+- ✅ Professional web content creation
 
-## Projects
+## Next Steps
 
-- Basic webpage structure
-- Personal portfolio page
-- Contact form
+- [ ] Move to CSS for styling and layout
+- [ ] Practice responsive design principles
+- [ ] Learn CSS selectors and properties
