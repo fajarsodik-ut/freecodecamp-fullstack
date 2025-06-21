@@ -11,20 +11,20 @@
 ## Completed Projects
 
 ### ✅ 01. Build a Recipe Page
-
-### ✅ 01. Build a Recipe Page
 - **Project**: [01-build-recipe-page](01-build-recipe-page/)
 - **Topic**: Unadon (Japanese Eel Rice Bowl) recipe
 - **Skills**: Basic HTML structure, lists, images, content organization
 - **Status**: **COMPLETED** ✅
 
 ### ✅ 02. Build a Travel Agency Page
+
 - **Project**: [02-build-travel-agency-page](02-build-travel-agency-page/)
 - **Topic**: Discover Bromo travel tours website
 - **Skills**: Advanced HTML, figures, SEO meta tags, external links, image galleries
 - **Status**: **COMPLETED** ✅
 
 ### ✅ 03. Build a Video Compilation Page
+
 - **Project**: [03-build-a-video-compilation-page](03-build-a-video-compilation-page/)
 - **Topic**: YOASOBI music video compilation
 - **Skills**: Multimedia integration, YouTube embeds, iframe elements, entertainment content
