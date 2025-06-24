@@ -11,6 +11,7 @@
 ## Completed Projects
 
 ### ✅ 01. Build a Recipe Page
+
 - **Project**: [01-build-recipe-page](01-build-recipe-page/)
 - **Topic**: Unadon (Japanese Eel Rice Bowl) recipe
 - **Skills**: Basic HTML structure, lists, images, content organization
@@ -30,18 +31,27 @@
 - **Skills**: Multimedia integration, YouTube embeds, iframe elements, entertainment content
 - **Status**: **COMPLETED** ✅
 
+### ✅ 04. Build an Event Hub Page
+
+- **Project**: [04-build-event-hub](04-build-event-hub/)
+- **Topic**: Gaming Event Hub for collectible card games
+- **Skills**: Semantic HTML, internal navigation, time elements, article structure, gaming content
+- **Status**: **COMPLETED** ✅
+
 ## Skills Developed
 
 - ✅ HTML5 document structure (DOCTYPE, html, head, body)
 - ✅ Content elements (headings, paragraphs, lists)
 - ✅ Media integration (images with alt text, video embeds)
-- ✅ Semantic markup (figure, figcaption, strong, section, main)
-- ✅ Navigation and linking (internal and external links)
+- ✅ Semantic markup (figure, figcaption, strong, section, main, article, header, nav)
+- ✅ Navigation and linking (internal and external links, anchor navigation)
 - ✅ SEO fundamentals (meta descriptions, proper titles)
+- ✅ Time elements with datetime attributes
 - ✅ Multimedia content (YouTube iframe integration)
 - ✅ Responsive design considerations (viewport meta tag)
 - ✅ Accessibility best practices
 - ✅ Professional web content creation
+- ✅ Event and gaming content organization
 
 ## Next Steps
 
