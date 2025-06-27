@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <main>
+      <h1 id="title">Study Habits and Productivity Survey</h1>
+      <p id="description">
+        <strong>Purpose:</strong> Understanding how students and learners
+        organize their study time, what tools they use, and their productivity
+        strategies      </p>
+      <form id="survey-form">
+        <label for="name" id="name-label">Name:</label><br />
+        <input
+          type="text"
+          id="name"
+          name="name"
+          placeholder="Ex. John Doe"
+          required
+        /><br />
+
+        <label for="email" id="email-label">Email:</label><br />
+        <input
+          placeholder="example@email.com"
+          required
+          id="email"
+          type="email"
+          name="email"
+          size="20"
+        /><br />
+        <label for="number" id="number-label">Age:</label><br />
+        <input
+          type="number"
+          name="age"
+          id="number"
+          min="3"
+          max="100"
+          placeholder="Enter your age"
+        /> <br></br>
+
+        <label for="dropdown">What are you currently studying?</label><br />
+        <select id="dropdown" name="study-focus">
+          <option disabled selected value="">
+            Select your main study focus
+          </option>
+          <option value="programming">Programming/Software Development</option>
+          <option value="data-science">Data Science/Analytics</option>
+          <option value="design">Design (UI/UX/Graphic)</option>
+          <option value="business">Business/Management</option>
+          <option value="languages">Languages</option>
+          <option value="academic">Academic Subjects</option>
+          <option value="certifications">Professional Certifications</option>
+          <option value="other">Other</option></select        ><br /><br />
+
+        <label>How often do you study or learn new skills?</label><br />
+        <input type="radio" id="daily" name="study-frequency" value="daily" />
+        <label for="daily">Daily</label><br />
+        <input type="radio" id="weekly" name="study-frequency" value="weekly" />
+        <label for="weekly">Several times a week</label><br />
+        <input type="radio" id="once-week" name="study-frequency" value="once-week" />
+        <label for="once-week">Once a week</label><br />
+        <input type="radio" id="monthly" name="study-frequency" value="monthly" />
+        <label for="monthly">Few times a month</label><br />
+        <input type="radio" id="rarely" name="study-frequency" value="rarely" />
+        <label for="rarely">Rarely</label><br /><br />
+
+        <label>Which study methods do you use? (Check all that apply)</label
+        ><br />
+        <input
+          type="checkbox"
+          id="reading"
+          name="study-methods"
+          value="reading"
+        />
+        <label for="reading">Reading textbooks/articles</label><br />
+        <input
+          type="checkbox"
+          id="videos"
+          name="study-methods"
+          value="videos"
+        />
+        <label for="videos">Watching video tutorials</label><br />
+        <input
+          type="checkbox"
+          id="courses"
+          name="study-methods"
+          value="courses"
+        />
+        <label for="courses">Taking online courses</label><br />
+        <input
+          type="checkbox"
+          id="practice"
+          name="study-methods"
+          value="practice"
+        />
+        <label for="practice">Hands-on practice/coding</label><br />
+        <input
+          type="checkbox"
+          id="flashcards"
+          name="study-methods"
+          value="flashcards"
+        />
+        <label for="flashcards">Flashcards/spaced repetition</label><br />
+        <input
+          type="checkbox"
+          id="group-study"
+          name="study-methods"
+          value="group-study"
+        />
+        <label for="group-study">Group study sessions</label><br />
+        <br /><br />
+        <label for="comments"
+          >Any additional comments about your study habits?</label
+        ><br />
+        <textarea
+          id="comments"
+          name="comments"
+          placeholder="Share your thoughts, tips, or experiences..."
+          rows="5"
+          cols="50"
+        >
+        </textarea
+        ><br />
+
+        <button type="submit" id="submit">Submit Survey</button>
+      </form>
+    </main>
+  </body>
+</html>
