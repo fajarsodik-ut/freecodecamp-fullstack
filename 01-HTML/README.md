@@ -32,10 +32,15 @@
 - **Status**: **COMPLETED** ✅
 
 ### ✅ 04. Build an Event Hub Page
-
 - **Project**: [04-build-event-hub](04-build-event-hub/)
 - **Topic**: Gaming Event Hub for collectible card games
 - **Skills**: Semantic HTML, internal navigation, time elements, article structure, gaming content
+- **Status**: **COMPLETED** ✅
+
+### ✅ 05. Build a Survey Form
+- **Project**: [05-build-survey-form](05-build-survey-form/)
+- **Topic**: Study Habits and Productivity Survey
+- **Skills**: Complete form development, all input types, validation, accessibility, survey design
 - **Status**: **COMPLETED** ✅
 
 ## Skills Developed
@@ -48,10 +53,14 @@
 - ✅ SEO fundamentals (meta descriptions, proper titles)
 - ✅ Time elements with datetime attributes
 - ✅ Multimedia content (YouTube iframe integration)
+- ✅ **Complete form development** (all input types, validation, accessibility)
+- ✅ **Form elements** (text, email, number, radio, checkbox, select, textarea, submit)
+- ✅ **Form validation** (required fields, email format, number ranges)
 - ✅ Responsive design considerations (viewport meta tag)
 - ✅ Accessibility best practices
 - ✅ Professional web content creation
 - ✅ Event and gaming content organization
+- ✅ Survey design and user experience
 
 ## Next Steps
 
