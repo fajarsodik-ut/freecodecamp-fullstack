@@ -43,6 +43,12 @@
 - **Skills**: Complete form development, all input types, validation, accessibility, survey design
 - **Status**: **COMPLETED** ✅
 
+### ✅ 06. Build a Book Catalog Table
+- **Project**: [06-build-book-catalog-table](06-build-book-catalog-table/)
+- **Topic**: Classic Literature Book Catalog
+- **Skills**: HTML tables, data organization, semantic table structure, tabular presentation
+- **Status**: **COMPLETED** ✅
+
 ## Skills Developed
 
 - ✅ HTML5 document structure (DOCTYPE, html, head, body)
